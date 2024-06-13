@@ -47,3 +47,7 @@ Após a devolução e avaliação de um livro, o sistema recomenda livros ao usu
 - **Forntend:** HTML, CSS(Bootstrap), JavaScript(JQuery)
 - **Banco de Dados:** MySQL
 - **Frameworks e Bibliotecas:** Boostrap, JQuerry
+
+## Desenvolvedores
+- Carolina Lima
+- Quézia Souza
