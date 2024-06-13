@@ -1,4 +1,4 @@
-# Biblioteca Online
+# Sistema de Biblioteca Online
 
 ## Visão Geral
 A Biblioteca WhaShiTong é um sistema que permite aos usuários alugar, devolver e avaliar livros. Com base nas avaliações, os usuários recebem recomendações de livros de acordo com os gêneros lidos e as avaliações feitas. O sistema possui dois tipos de login: administrador e usuário.
